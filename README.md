@@ -3,6 +3,8 @@
 
 ![image](https://github.com/VirendrKumarYadav/dad_jokes/assets/87600216/cc22b755-5066-474e-9b66-36aec52c4cbc)
 
+<h2>Host link: https://virendrkumaryadav.github.io/dad_jokes/</h2> 
+  
 A simple web application that generates jokes when you click the "Tell me a joke" button.
 
 ## Table of Contents
